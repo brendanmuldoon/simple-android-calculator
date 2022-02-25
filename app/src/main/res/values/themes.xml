@@ -19,7 +19,13 @@
         <item name="android:textSize">20sp</item>
     </style>
 
-    <style name="Button.Purple" parent="ThemeOverlay.AppCompat">
-        <item name="android:backgroundTint">@color/purple_700</item>
+    <style name="Button.Grey" parent="ThemeOverlay.AppCompat">
+        <item name="android:backgroundTint">@color/button_grey</item>
+
+    </style>
+
+
+    <style name="BackgroundColour" parent="ThemeOverlay.AppCompat">
+        <item name="android:background">@color/light_grey</item>
     </style>
 </resources>
